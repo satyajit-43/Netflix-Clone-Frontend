@@ -15,15 +15,16 @@ A frontend clone of Netflix built using Tailwind CSS. This project replicates th
 ## How to Run
 
 1. Clone the repository:
+2. Refer to [Tailwind Documentation](https://tailwindcss.com/docs/installation) to install tailwind css
 
-2. Open Command Prompt:
+3. Open Command Prompt:
    ```bash
    npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 
-3. Note:
+4. Note:
    Keep the above link running. Don't close the terminal.
 
-4. Open the index.html file in your preferred web browser to view the project.
+5. Open the index.html file in your preferred web browser to view the project.
 
 
   
