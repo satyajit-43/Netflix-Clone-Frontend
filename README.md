@@ -21,7 +21,7 @@ A frontend clone of Netflix built using Tailwind CSS. This project replicates th
    ```bash
    npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 
-4. Note:
+4. Note:  
    Keep the above link running. Don't close the terminal.
 
 5. Open the index.html file in your preferred web browser to view the project.
